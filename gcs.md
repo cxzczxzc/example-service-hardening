@@ -1,3 +1,5 @@
+**Note**: This is an example repo to demonsrtrate what service hardening requirements look like. Do not use this.
+
 # Security Hardening Guidelines - Google Cloud Storage
 
 This document describes the security requirements involved in performing service enablement for GCS.
