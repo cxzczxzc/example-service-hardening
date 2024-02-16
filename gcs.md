@@ -15,7 +15,7 @@ This is an exhaustive list of requirements which will be reviewed by security re
 The existing terraform modules for GCS will be reviewed to ensure that they're in sync with these best practices. 
 After that, any application level configuration that needs to be made by the application teams while consuming those terraform modules would be put together in a guide.
 
-**Note:** This document consists of the reviewed and finalized security hardening requirements for GCS from the [master list](https://docs.google.com/spreadsheets/d/1nGqVZ_JRQJvYALRrNKvt28KpC01CEn0vwA7gk0NM1Ww/edit#gid=1771890796). It will be updated with status and links to implementation after further reviews.
+**Note:** This document consists of the reviewed and finalized security hardening requirements for GCS from the [master list](). It will be updated with status and links to implementation after further reviews.
 
 Here's what a control status means:
 
