@@ -2,12 +2,12 @@
 
 This document describes the security requirements involved in performing service enablement for GCS.
 The requirements have been derived from various sources, like:
-- Yahoo Security Standards 
+- Customer Security Standards 
 - Google Recommended Security Best Practices 
 
 
 ## Purpose
-This is an exhaustive list of requirements which will be reviewed by security reviewers at Yahoo. 
+This is an exhaustive list of requirements which will be reviewed by security reviewers at [Customer]. 
 <br>Once finalized, the appropriate security controls will be enforced through the best and most suitable choice out of terraform, organization policies, sentinel policies, etc. 
 
 The existing terraform modules for GCS will be reviewed to ensure that they're in sync with these best practices. 
@@ -35,8 +35,8 @@ Here's what a control status means:
 - [Saad Ahmad](saadx@google.com)
   
 ## Reviewers
-- [Meir Zeevi](meir.zeevi@yahooinc.com)
 
+- [Saad Ahmad](saadx@google.com)
                                                                                                                                                            
 ## Security Standards for GCS
 |    ID   	| Status of Enforcement 	|                                                                                                                                                                                                                                                                                                                                                                                                         Security Requirements                                                                                                                                                                                                                                                                                                                                                                                                         	|                                                                                  Condition                                                                                 	|                                                                                                                                                                                                Rationale                                                                                                                                                                                               	| Link to  Implementation 	|
